@@ -1,0 +1,11 @@
+{
+    "AccountID": "094107043274",
+    "circleCIToken": "a8ebfeb85f4fa68eda88a348a764c40aa6609e84",
+    "vcs": "github",
+    "org": "cx-lcp-cd-demo",
+    "pipelineName": "iac-deployment-pipeline",
+    "branchName": "dev-api-test",
+    "serviceName": "secret-manager",
+    "servicePath": "resources/",
+    "baseUrl": "https://circleci.com/api/v2/project/"
+}
